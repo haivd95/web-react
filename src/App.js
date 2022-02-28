@@ -10,9 +10,9 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <Book name="haivd"/>
-        <Book name="haivd2"/>
-        <Book name="haivd3"/>
+        <Book name="Component 1"/>
+        <Book name="Component 2"/>
+        <Book name="Component 3"/>
       </header>
     </div>
   );
